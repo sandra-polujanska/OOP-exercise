@@ -1,4 +1,1 @@
-Object Oriented Programming exercise:
-
-objects, classes
-prototypes
+Object Oriented Programming exercise which includes classes, objects, prototypes.
